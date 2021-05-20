@@ -1,0 +1,33 @@
+<head>
+	<title>Rowan d. Anson</title>
+	<link rel="stylesheet" href="theme.css">
+</head>
+
+<body>
+<div>
+	<h1>Rowan Anson</h1>
+
+	<p>I am fifthteen years old and enjoy learnig about the world. I have a wonderful family including a sister and a covid puppy both equaly annoying. I live in the beautilful city of Vancouver, British Columbia and enjoy walking the seawall.</p> 
+
+	<h3>Three things I like include:</h3> <ol>
+		<li>Engineerering and any problem that requires critical thinking to solve</li>
+		<li>Playing Board Games including Terraforming Mars</li>
+		<li>Drawing and dooodling</li>
+	</ol>
+	<h3>Things I don't like are:</h3>
+	<ul>
+		<li>Shrimp</li>
+		<li>Anti-maskers</li>
+		<li>Tomatoes on their own</li>
+	</ul>
+
+	<h3>Heres a link i like:</h3> 
+	<a href="https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q">Kurzgesagt-In a Nutshell</a>
+	<h3>Finally heres a great insipring image of our great home. Which we most protect and care for.</h3>
+
+	<img src="space.jpg" width="500"> </img>
+</div>
+</body>
+
+
+
